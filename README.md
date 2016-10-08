@@ -7,7 +7,7 @@
  2. [X] head tags
  3. [X] body tags
  4. [X] h & p tags
- 5. [ ] indentation
+ 5. [X] indentation
 
 **CSS**
   1. [X] bg color
